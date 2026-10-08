@@ -1,5 +1,8 @@
 # bigmodel
 基于4卡atlas300i-duo的大模型管理平台，自研int4算子，forward解包，图模式。
+现状和计划：
+1.2026年10月8日，在4卡310P上实现glm5.3-flash-W4F档1M上下文；
+2.下一步计划：实现deepseek4.1flash部署。
 
   # bigmodel —— 面向昇腾 310P 的本地大模型量化与推理科研平台
 
